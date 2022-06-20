@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Main project (start 15 June 2022): [![wakatime](https://wakatime.com/badge/github/olezhek28/olezhek28.svg)](https://wakatime.com/badge/github/olezhek28/olezhek28)
 
 ### 🛠 &nbsp;Languages and Tools :
 
@@ -40,5 +41,3 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olezhek28&layout=compact&theme=material-palenight" />
 </a>
-
-Main project (start 15 June 2022): [![wakatime](https://wakatime.com/badge/github/olezhek28/olezhek28.svg)](https://wakatime.com/badge/github/olezhek28/olezhek28)
