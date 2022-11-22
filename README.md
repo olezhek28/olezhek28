@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Main project (start 15 June 2022): [![wakatime](https://wakatime.com/badge/github/olezhek28/olezhek28.svg)](https://wakatime.com/badge/github/olezhek28/olezhek28)
+
 
 ### 🛠 &nbsp;Languages and Tools :
 
