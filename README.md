@@ -4,7 +4,9 @@ I'm Oleg, a self-motivated tech enthusiast and Golang/C++ developer.
 
 💻 Senior programming engineer @ozontech  
 💬 connect [@olezhek28](https://t.me/olezhek28)    
-💻 practice [LeetCode](https://leetcode.com/olezhek28/)   
+💻 practice [LeetCode](https://leetcode.com/olezhek28/)  
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olezhek28&show_icons=true)
 
 <!--
 **olezhek28/olezhek28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
