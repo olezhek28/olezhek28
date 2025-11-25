@@ -2,7 +2,7 @@
 
 I'm Oleg, a self-motivated tech enthusiast and Golang/C++ developer.
 
-💻 Senior programming engineer [@avito_tech](https://github.com/avito-tech)  
+💻 Staff programming engineer  
 💬 connect [@olezhek28](https://t.me/olezhek28)    
 💻 practice [LeetCode](https://leetcode.com/olezhek28/)  
 
